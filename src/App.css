@@ -1,0 +1,14 @@
+.active{
+  fill: yellow;
+}
+.inactive {
+  fill: black;
+}
+.star-rating {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  margin-top: 250px;
+
+}
